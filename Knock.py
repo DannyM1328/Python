@@ -1,0 +1,5 @@
+print("Knock, Kncok")
+print("Whos There")
+print("Hatch.")
+print("Hatch Who?")
+print("Bless You1")
